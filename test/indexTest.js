@@ -150,7 +150,7 @@ describe('index.js', () => {
             flavortownDelivery,
             guysAmericanDelivery,
             guysDuplicateDelivery,
-            batalisDessert,
+            batalisDessert
           ]);
         });
       });
